@@ -1,0 +1,9 @@
+sessionAuthURL: 
+keyAuthUrl:
+localKeystorePath:
+localKeystorePassword: 
+botCertPath: 
+botCertPassword:
+botEmailAddress:
+agentAPIEndpoint: 
+podAPIEndpoint: 
